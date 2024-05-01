@@ -1,6 +1,6 @@
 ### OOP- object oriented Programming.
    ## Basics of OOP
-OOP is a pprogramming style based on classes and objects.
+OOP is a programming style based on classes and objects.
 1. Class - its like a template for an object.
 2. Object - is an instance of a class
    Objects have both properties( what they are made up of) and methods(what they do).
